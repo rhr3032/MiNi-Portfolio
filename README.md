@@ -1,5 +1,5 @@
 # M!N! Portfolio Website | NUYsDev 🌸
-## [Preview](https://youtu.be/QPxYdbbCjhQ) | [UI Design](https://youtu.be/QPxYdbbCjhQ)
+## [Preview](https://rhr3032.github.io/MiNi-Portfolio/) | [UI Design](https://www.behance.net/gallery/144008629/MN-Portfolio-UI-Design)
 
 
 ### M!N! Portfolio Website 🌸
